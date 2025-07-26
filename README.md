@@ -14,5 +14,5 @@ This project showcases reusable widgets, a clean file structure, and responsive 
   - Search bar
   - Featured products (with title, price, image, and favorite toggle)
 
-Screen()
+Screen(https://github.com/EmanMohamed7612/Task5/blob/main/images/task.png)
 
